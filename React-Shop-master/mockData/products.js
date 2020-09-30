@@ -30,6 +30,25 @@ export const products = [{
     image: "https://gdg-react-workshop.s3.amazonaws.com/apples.JPG"
 }, {
     name: "Kiwi",
+    , {
+    name: "Milk",
+    image: "https://gdg-react-workshop.s3.amazonaws.com/milk.JPG"
+}, {
+    name: "Eggs",
+    image: "https://gdg-react-workshop.s3.amazonaws.com/eggs.JPG"
+}, {
+    name: "Cheese",
+    image: "https://gdg-react-workshop.s3.amazonaws.com/cheese.JPG"
+}, {
+    name: "Onions",
+    image: "https://gdg-react-workshop.s3.amazonaws.com/onions.JPG"
+}, {
+    name: "Banana",
+    image: "https://gdg-react-workshop.s3.amazonaws.com/banana.JPG"
+}, {
+    name: "Apples",
+    image: "https://gdg-react-workshop.s3.amazonaws.com/apples.JPG"
+}, {
     image: "https://gdg-react-workshop.s3.amazonaws.com/kiwi.JPG"
 }, {
     name: "Tomatoes",
